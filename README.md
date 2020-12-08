@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+08-12.2020
 
 ### Project Title
-Replace the Project Title
+Bike Share Pyhton Project
 
 ### Description
-Describe what your project is about and what it does
+This to provide some statistics about the customers for the Bike Share Company
 
 ### Files used
 Include the files used

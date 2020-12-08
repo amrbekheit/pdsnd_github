@@ -1,5 +1,7 @@
 ## Add first comment for the refactoring
 
+## Add second comment for the refactoring
+
 import time
 import pandas as pd
 import numpy as np
